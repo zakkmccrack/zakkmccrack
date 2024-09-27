@@ -17,8 +17,8 @@ Over the years I have specialized in the use of the following programming langua
 <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/free-linux-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2944967.webp" width="48">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ID0x6e656d6f&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)<br>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ID0x6e656d6f)](https://github.com/anuraghazra/github-readme-stats)<br>
 In addition to IT I have many other passions and hobbies including:<br>
 - 🎶 Music<br>
 - 📸 Photography<br>
