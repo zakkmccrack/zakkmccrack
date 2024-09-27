@@ -1,7 +1,7 @@
 ## Hi there 📀
 
 I am a computer science student at the University of Perugia. I started programming in 2018 out of passion, and then concentrated on web development and object-oriented programming. Over the years I have specialized in the use of the following programming languages ​​(not in precise order):
-![](https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/MySQL-Logo.png?raw=true | width=100)
+![alt text](https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/MySQL-Logo.png?raw=true | width=100)
 ![alt text](https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/Python.svg.png?raw=true)
 ![alt text](https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/MySQL-Logo.png?raw=true)
 
