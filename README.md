@@ -17,12 +17,10 @@ Over the years I have specialized in the use of the following programming langua
 <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/free-linux-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2944967.webp" width="48">
 
 <br>
-In addition to IT I have many other passions and hobbies including:
-- 🎶 Music
-- 📸 Photography
-- 🌌 Space
-- 📖 Reading
-- 🏋🏻‍♂️ Gym
-- ♟ chess
-
-
+In addition to IT I have many other passions and hobbies including:<br>
+- 🎶 Music<br>
+- 📸 Photography<br>
+- 🌌 Space<br>
+- 📖 Reading<br>
+- 🏋🏻‍♂️ Gym<br>
+- ♟ Chess<br>
