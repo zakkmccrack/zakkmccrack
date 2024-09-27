@@ -18,7 +18,7 @@ Over the years I have specialized in the use of the following programming langua
 
 <br>
 In addition to IT I have many other passions and hobbies including:<br>
- - 🎶 Music<br>
+- 🎶 Music<br>
 - 📸 Photography<br>
 - 🌌 Space<br>
 - 📖 Reading<br>
