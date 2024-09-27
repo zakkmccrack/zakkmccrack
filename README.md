@@ -1,8 +1,6 @@
-## Alessandro Zaganelli
+## Hi there 📀
 
-**ID0x6e656d6f/ID0x6e656d6f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a computer science student at the University of Perugia. I started programming in 2018 out of passion, and then concentrated on web development and object-oriented programming. Over the years I have specialized in the use of the following programming languages ​​(not in precise order):
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
