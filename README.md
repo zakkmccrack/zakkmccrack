@@ -20,10 +20,3 @@ Over the years I have specialized in the use of the following programming langua
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ID0x6e656d6f&hide_rank=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&theme=tokyonight)<br>
-In addition to IT I have many other passions and hobbies including:<br>
-- 🎶 Music<br>
-- 📸 Photography<br>
-- 🌌 Space<br>
-- 📖 Reading<br>
-- 🏋🏻‍♂️ Gym<br>
-- ♟ Chess<br>
