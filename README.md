@@ -49,10 +49,10 @@ I believe what we do defines us—but *why* we do it gives it meaning. My passio
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ID0x6e656d6f&hide_rank=true&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID0x6e656d6f&langs_count=6&layout=compact&theme=tokyonight" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=ID0x6e656d6f&theme=dark">
+  <img src="https://streak-stats.demolab.com/?user=ID0x6e656d6f&theme=dark" height="180">
 </p>
 
 ---
