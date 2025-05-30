@@ -40,7 +40,7 @@ I'm currently building <a href="https://theunico.it/" target="_blank">**UNICO**<
 
 ### 📚 Beyond Code...
 I believe what we do defines us—but *why* we do it gives it meaning. My passions play a crucial role in shaping how I think, create, and connect:
-- 📖 **Reading** — I’m a curious reader of philosophy and history, especially classical works and existentialist thought. I’m also a big fan of comics and graphic novels—visual storytelling fascinates me!
+- 📖 **Reading** — I’m a curious reader of philosophy and history, especially classical works and existentialist thought. I’m also a big fan of comics and graphic novel!
 - 📷 **Photography** — For two years, I worked as a motorsport photographer with a Canon R10. I occasionally practice astrophotography and always carry a camera when traveling or exploring!
 - 🌌 **Science** —Physics, mathematics, and astrophysics are my lifelong intellectual companions. The mystery of how the universe works, from quarks to galaxies, fuels my sense of wonder!
 - 🎵 **Music** — I have studied a lot of the history of music, from a purely social/historical point of view. This led me to meet many artists of various musical genres, starting with the blues and ending with the various genres of today. I also listen to a lot of classical music although my favorite genre remains pop-punk-rock!
