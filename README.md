@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm ID0x6e656d6f 👋</h1>
+<h1 align="center">Hi there, I'm ID0x6e656d6f 📀</h1>
 
 <p align="center">
   🎓 Computer Science student @ University of Perugia<br>
@@ -38,12 +38,12 @@ I'm currently building **UNICO**, a management system that integrates multiple A
 
 ---
 
-### 📚 Interests & Hobbies
-
-- 📖 **Reading** — From philosophical treatises to historical classics and comics. I love to read!
-- 📷 **Photography** — Former motorsport photographer, now casual astrophotographer with a Canon R10.
-- 🌌 **Science** — Huge fan of physics, mathematics and astrophysics.
-- 🎵 **Music** — Passionate about music history and culture. I enjoy everything from classical to pop-punk.
+### 📚 Beyond Code...
+I believe what we do defines us—but *why* we do it gives it meaning. My passions play a crucial role in shaping how I think, create, and connect:
+- 📖 **Reading** — I’m a curious reader of philosophy and history, especially classical works and existentialist thought. I’m also a big fan of comics and graphic novels—visual storytelling fascinates me!
+- 📷 **Photography** — For two years, I worked as a motorsport photographer with a Canon R10. I occasionally practice astrophotography and always carry a camera when traveling or exploring!
+- 🌌 **Science** —Physics, mathematics, and astrophysics are my lifelong intellectual companions. The mystery of how the universe works, from quarks to galaxies, fuels my sense of wonder!
+- 🎵 **Music** — I have studied a lot of the history of music, from a purely social/historical point of view. This led me to meet many artists of various musical genres, starting with the blues and ending with the various genres of today. I also listen to a lot of classical music although my favorite genre remains pop-punk-rock!
 
 ---
 
@@ -52,6 +52,7 @@ I'm currently building **UNICO**, a management system that integrates multiple A
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ID0x6e656d6f&hide_rank=true&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID0x6e656d6f&langs_count=6&layout=compact&theme=tokyonight" height="180"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=ID0x6e656d6f&theme=dark)](https://git.io/streak-stats)
 </p>
 
 ---
