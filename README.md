@@ -3,7 +3,7 @@
 I am a computer science student at the University of Perugia.<br>
 I started programming in 2018 out of passion, and then focused in the short term on web development and object-oriented programming.<br>
 In 2021 I ranked among the <a href="https://www.olimpiadi-informatica.it/oldsite/202/classifica-generale-territoriale-2022.xlsx">top 600 students in Italy at the OII.</a><br>
-In the following years I became interested in operating systems related to computer security and consequently in this world.<br>
+In the following years I became interested in operating systems related to cyber security and consequently in this world.<br>
 That hobby leaded me to partecipate on 2023 and 2025 in the CyberChallenges.
 I am currently working on <a href="https://theunico.it/">UNICO</a>, a project that I started and am carrying out with some of my friends and colleagues from university
 Over the years I have specialized in the use of the following programming languages and technologies:<br>
