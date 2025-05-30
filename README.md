@@ -2,7 +2,7 @@
 
 I am a computer science student at the University of Perugia.<br>
 I started programming in 2018 out of passion, and then concentrated on web development and object-oriented programming.<br>
-Over the years I have specialized in the use of the following programming languages and technologies ​​(not in precise order):<br>
+Over the years I have specialized in the use of the following programming languages and technologies:<br>
 <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/Typescript.png?raw=true" width="56">
 <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/Node.js_logo.png" width="56">
 <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/Python.svg.png" width="48">
