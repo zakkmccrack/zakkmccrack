@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm ID0x6e656d6f 📀</h1>
+<h1 align="center">Hi there, I'm zakkmccrack 📀</h1>
 
 <p align="center">
   🎓 Computer Science student @ University of Perugia<br>
