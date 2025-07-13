@@ -38,7 +38,7 @@ I'm currently building <a href="https://theunico.it/" target="_blank">**UNICO**<
     <td align="center" style="vertical-align: top;">
       <h2>Languages (Basic Level)</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=bash,kotlin,r&perline=4" />
+        <img src="https://skillicons.dev/icons?i=bash,kotlin,r&perline=2" />
       </a>
     </td>
     <td align="center" style="vertical-align: top;">
