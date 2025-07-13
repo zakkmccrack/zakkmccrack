@@ -30,7 +30,7 @@ I'm currently building <a href="https://theunico.it/" target="_blank">**UNICO**<
     <td align="center" style="vertical-align: top; width:50%;">
       <h2>Languages (Medium Level)</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=bash,cpp,py,tailwind" />
+        <img src="https://skillicons.dev/icons?i=cpp,py,tailwind" />
       </a>
     </td>
   </tr>
@@ -38,7 +38,7 @@ I'm currently building <a href="https://theunico.it/" target="_blank">**UNICO**<
     <td align="center" style="vertical-align: top;">
       <h2>Languages (Basic Level)</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=kotlin,r" />
+        <img src="https://skillicons.dev/icons?i=bash,kotlin,r" />
       </a>
     </td>
     <td align="center" style="vertical-align: top;">
