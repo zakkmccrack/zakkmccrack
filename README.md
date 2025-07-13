@@ -34,6 +34,7 @@ I'm currently building <a href="https://theunico.it/" target="_blank">**UNICO**<
   <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/unity-logo-988A22E703-seeklogo.com.png" width="42"/>
   <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/arduino-logo-1.png" width="42"/>
   <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/free-linux-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2944967.webp" width="42"/>
+    <img src="https://github.com/zakkmccrack/zakkmccrack/blob/main/Android_Studio_icon_(2023).svg.png" width="42"/>
 </p>
 
 ---
