@@ -55,7 +55,12 @@ I'm currently building <a href="https://theunico.it/" target="_blank">**UNICO**<
         <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,vite,react&perline=3" />
       </a>
     </td>
-    <td></td>
+    <td>
+      <h2>OS</h2>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=deian,ubuntu,kali,mintt&perline=3" />
+      </a>
+    </td>
   </tr>
 </table>
 
