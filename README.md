@@ -19,22 +19,35 @@ I'm currently building <a href="https://theunico.it/" target="_blank">**UNICO**<
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/Typescript.png?raw=true" width="48"/>
-  <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/Node.js_logo.png" width="48"/>
-  <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/Python.svg.png" width="42"/>
-  <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/c-programming.png" width="42"/>
-  <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/c-sharp-c-icon-912x1024-j3yidw37.png" width="42"/>
-  <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/java-logo-1.png" width="42"/>
-  <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/php-1-logo-png-transparent.png" width="64"/>
-  <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/MySQL-Logo.png?raw=true" width="48"/>
-  <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/png-clipart-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text.png" width="88"/>
-  <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/Git-Icon-1788C.png" width="42"/>
-  <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/Figma-1-logo.png" width="42"/>
-  <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/unity-logo-988A22E703-seeklogo.com.png" width="42"/>
-  <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/arduino-logo-1.png" width="42"/>
-  <img src="https://github.com/ID0x6e656d6f/ID0x6e656d6f/blob/main/free-linux-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2944967.webp" width="42"/>
-    <img src="https://github.com/zakkmccrack/zakkmccrack/blob/main/Android_Studio_icon_(2023).svg.png" width="42"/>
+<p align="center">
+  <h2>Languages (High Level)</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,java,js,html,css,mysql,php,ts" />
+  </a>
+</p>
+<p align="center">
+  <h2>Languages (Medium Level)</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,cpp,py,tailwind" />
+  </a>
+</p>
+<p align="center">
+  <h2>Languages (Basic Level)</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,r" />
+  </a>
+</p>
+<p align="center">
+  <h2>IDE</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,arduino,eclipse,unity" />
+  </a>
+</p>
+<p align="center">
+  <h2>Technologies</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,vite,react" />
+  </a>
 </p>
 
 ---
