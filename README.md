@@ -19,36 +19,46 @@ I'm currently building <a href="https://theunico.it/" target="_blank">**UNICO**<
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <h2>Languages (High Level)</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,js,html,css,mysql,php,ts" />
-  </a>
-</p>
-<p align="center">
-  <h2>Languages (Medium Level)</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,cpp,py,tailwind" />
-  </a>
-</p>
-<p align="center">
-  <h2>Languages (Basic Level)</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,r" />
-  </a>
-</p>
-<p align="center">
-  <h2>IDE</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,arduino,eclipse,unity" />
-  </a>
-</p>
-<p align="center">
-  <h2>Technologies</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,vite,react" />
-  </a>
-</p>
+<table align="center" style="width:100%; table-layout: fixed;">
+  <tr>
+    <td align="center" style="vertical-align: top; width:50%;">
+      <h2>Languages (High Level)</h2>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cs,java,js,html,css,mysql,php,ts" />
+      </a>
+    </td>
+    <td align="center" style="vertical-align: top; width:50%;">
+      <h2>Languages (Medium Level)</h2>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=bash,cpp,py,tailwind" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">
+      <h2>Languages (Basic Level)</h2>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=kotlin,r" />
+      </a>
+    </td>
+    <td align="center" style="vertical-align: top;">
+      <h2>IDE</h2>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,arduino,eclipse,unity" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">
+      <h2>Technologies</h2>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,vite,react" />
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
 
 ---
 
