@@ -24,7 +24,7 @@ I'm currently building <a href="https://theunico.it/" target="_blank">**UNICO**<
     <td align="center" style="vertical-align: top; width:50%;">
       <h2>Languages (High Level)</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cs,java,js,html,css,mysql,php,ts&perline4=" />
+        <img src="https://skillicons.dev/icons?i=c,cs,java,js,html,css,mysql,php,ts&perline=4" />
       </a>
     </td>
     <td align="center" style="vertical-align: top; width:50%;">
