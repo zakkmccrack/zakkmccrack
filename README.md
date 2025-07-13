@@ -24,13 +24,13 @@ I'm currently building <a href="https://theunico.it/" target="_blank">**UNICO**<
     <td align="center" style="vertical-align: top; width:50%;">
       <h2>Languages (High Level)</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cs,java,js,html,css,mysql,php,ts" />
+        <img src="https://skillicons.dev/icons?i=c,cs,java,js,html,css,mysql,php,ts&perline=3" />
       </a>
     </td>
     <td align="center" style="vertical-align: top; width:50%;">
       <h2>Languages (Medium Level)</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,py,tailwind" />
+        <img src="https://skillicons.dev/icons?i=cpp,py,tailwind&perline=3" />
       </a>
     </td>
   </tr>
@@ -38,13 +38,13 @@ I'm currently building <a href="https://theunico.it/" target="_blank">**UNICO**<
     <td align="center" style="vertical-align: top;">
       <h2>Languages (Basic Level)</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=bash,kotlin,r" />
+        <img src="https://skillicons.dev/icons?i=bash,kotlin,r&perline=3" />
       </a>
     </td>
     <td align="center" style="vertical-align: top;">
       <h2>IDE</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,arduino,eclipse,unity" />
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,arduino,eclipse,unity&perline=3" />
       </a>
     </td>
   </tr>
@@ -52,7 +52,7 @@ I'm currently building <a href="https://theunico.it/" target="_blank">**UNICO**<
     <td align="center" style="vertical-align: top;">
       <h2>Technologies</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,vite,react" />
+        <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,vite,react&perline=3" />
       </a>
     </td>
     <td></td>
