@@ -57,7 +57,7 @@ I'm currently building <a href="https://theunico.it/" target="_blank">**UNICO**<
     <td align="center" style="vertical-align: top;">
       <h2>OS</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=debian,ubuntu,kali,mint,windows&perline=3" />
+        <img src="https://skillicons.dev/icons?i=debian,mint&perline=3" />
       </a>
     </td>
   </tr>
