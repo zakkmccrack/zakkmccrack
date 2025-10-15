@@ -3,7 +3,6 @@
 <p align="center">
   🎓 Computer Science student @ University of Perugia<br>
   🧠 Passionate about cybersecurity, low-level systems and full-stack development<br>
-  💼 Currently working on <a href="https://theunico.it/">UNICO</a> with an amazing team<br>
 </p>
 
 ---
