@@ -12,7 +12,6 @@
 I started programming in 2018 out of passion. Over time, I focused on web development and object-oriented programming.  
 In 2021, I ranked among the <a href="https://www.olimpiadi-informatica.it/oldsite/202/classifica-generale-territoriale-2022.xlsx" target="_blank">top 600 students</a> in Italy at the OII.  
 Between 2023 and 2025, I participated in the Italian *CyberChallenge.IT*, diving deep into cybersecurity and operating systems.  
-I'm currently building <a href="https://theunico.it/" target="_blank">**UNICO**</a>, a management system that integrates multiple AI services, with some friends from university.
 
 ---
 
