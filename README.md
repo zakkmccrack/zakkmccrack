@@ -22,13 +22,13 @@ Between 2023 and 2025, I participated in the Italian *CyberChallenge.IT*, diving
     <td align="center" style="vertical-align: top; width:50%;">
       <h2>Languages (High Level)</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cs,java,js,html,css,mysql,php,ts&perline=3" />
+        <img src="https://skillicons.dev/icons?i=astro,c,cs,java,js,html,css,mysql,php,tailwind,ts&perline=3" />
       </a>
     </td>
     <td align="center" style="vertical-align: top; width:50%;">
       <h2>Languages (Medium Level)</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,py,tailwind&perline=1" />
+        <img src="https://skillicons.dev/icons?i=cpp,py&perline=1" />
       </a>
     </td>
   </tr>
