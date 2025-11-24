@@ -50,7 +50,7 @@ Between 2023 and 2025, I participated in the Italian *CyberChallenge.IT*, diving
     <td align="center" style="vertical-align: top;">
       <h2>Technologies</h2>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,vite,react&perline=3" />
+        <img src="https://skillicons.dev/icons?i=git,github,nodejs,nextjs,npm,vite,react&perline=3" />
       </a>
     </td>
     <td align="center" style="vertical-align: top;">
