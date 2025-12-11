@@ -7,19 +7,7 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I started programming in 2018 out of passion. Over time, I focused on web development and object-oriented programming.  
-
-In 2021, I ranked among the <a href="https://www.olimpiadi-informatica.it/oldsite/202/classifica-generale-territoriale-2022.xlsx" target="_blank">top 600 students</a> in Italy at the OII.  
-
-Between 2023 and 2025, I participated in the Italian *CyberChallenge.IT*, diving deep into cybersecurity and operating systems.
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -45,7 +33,7 @@ Between 2023 and 2025, I participated in the Italian *CyberChallenge.IT*, diving
 
 ---
 
-## 📚 Beyond Code
+## Beyond Code
 
 I believe what we do defines us, but *why* we do it gives it meaning. My passions play a crucial role in shaping how I think, create, and connect:
 
@@ -59,7 +47,7 @@ I believe what we do defines us, but *why* we do it gives it meaning. My passion
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zakkmccrack&hide_rank=true&show_icons=true&theme=tokyonight" height="180"/>
