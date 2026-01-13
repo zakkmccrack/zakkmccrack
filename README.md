@@ -47,19 +47,6 @@ I believe what we do defines us, but *why* we do it gives it meaning. My passion
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakkmccrack&hide_rank=true&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakkmccrack&langs_count=6&layout=compact&theme=tokyonight" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zakkmccrack&theme=dark" height="180">
-</div>
-
----
-
 <div align="center">
   <em>"In the midst of winter, I found there was, within me, an invincible summer. And that makes me happy. For it says that no matter how hard the world pushes against me, within me, there's something stronger – something better, pushing right back."</em>
 </div>
