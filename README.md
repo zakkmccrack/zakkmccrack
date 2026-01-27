@@ -46,7 +46,13 @@ I believe what we do defines us, but *why* we do it gives it meaning. My passion
 **Music** — I have studied a lot of the history of music, from a purely social/historical point of view but I also play drums. This led me to meet many artists of various musical genres, starting with the blues and ending with the various genres of today. I also listen to a lot of classical music although my favorite genre remains pop-punk-rock!
 
 ---
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zakkmccrack&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakkmccrack&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+
+</div>
+---
 <div align="center">
   <em>"In the midst of winter, I found there was, within me, an invincible summer. And that makes me happy. For it says that no matter how hard the world pushes against me, within me, there's something stronger – something better, pushing right back."</em>
 </div>
