@@ -54,4 +54,5 @@ I believe what we do defines us, but *why* we do it gives it meaning. My passion
 <div align="center">
   <em>"In the midst of winter, I found there was, within me, an invincible summer. And that makes me happy. For it says that no matter how hard the world pushes against me, within me, there's something stronger – something better, pushing right back."</em>
 </div>
-![](https://hit.yhype.me/github/profile?account_id=114474294)
+
+![](https://komarev.com/ghpvc/?username=zakkmccrack)
