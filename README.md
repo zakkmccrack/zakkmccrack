@@ -1,5 +1,3 @@
-<img width="936" height="604" alt="image" src="https://github.com/user-attachments/assets/00662df1-ee48-4e97-b8b4-54dca9a2da14" /><div align="center">
-
 # Hi there, I'm zakkmccrack
 
 ### Computer Science student @ University of Perugia
