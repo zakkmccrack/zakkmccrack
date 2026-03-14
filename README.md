@@ -41,7 +41,7 @@ I believe what we do defines us, but *why* we do it gives it meaning. My passion
 
 **Science** — Physics, mathematics, and astrophysics are my lifelong intellectual companions. The mystery of how the universe works, from quarks to galaxies, fuels my sense of wonder!
 
-**Music** — I have studied a lot of the history of music, from a purely social/historical point of view but I also play drums. This led me to meet many artists of various musical genres, starting with the blues and ending with the various genres of today. I also listen to a lot of classical music although my favorite genre remains pop-punk-rock!
+**Music** — I have studied a lot of the history of music, from a purely social/historical point of view but I also play drums and guitar. This led me to meet many artists of various musical genres, starting with the blues and ending with the various genres of today. I also listen to a lot of classical music although my favorite genre remains pop-punk-rock!
 
 ---
 <div align="center">
