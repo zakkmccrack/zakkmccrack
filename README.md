@@ -12,7 +12,7 @@
 ### Languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,html,css,bash,kotlin,r&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,html,css,bash,kotlin,r,rust&perline=7" />
 </a>
 
 ### Frameworks & Libraries
