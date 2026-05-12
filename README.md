@@ -33,7 +33,6 @@
 
 ![Top Languages](https://ghstats.dev/api/langs?username=zakkmccrack&theme=radical&max_langs=12)
 
-
 </div>
 
 ---
