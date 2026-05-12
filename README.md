@@ -48,7 +48,7 @@ I believe what we do defines us, but *why* we do it gives it meaning. My passion
 ---
 <div align="center">
 
-![GitHub Stats](https://streak-stats.demolab.com?user=zakkmccrack&theme=default&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=zakkmccrack&theme=shades-of-purple&hide_border=true)
 
 </div>
 ---
