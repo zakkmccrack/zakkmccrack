@@ -50,6 +50,7 @@ I believe what we do defines us, but *why* we do it gives it meaning. My passion
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=zakkmccrack&theme=shades-of-purple&hide_border=true)
 
+![Top Languages](https://ghstats.dev/api/langs?username=zakkmccrack&theme=radical)
 </div>
 ---
 <div align="center">
