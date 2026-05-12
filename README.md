@@ -48,8 +48,7 @@ I believe what we do defines us, but *why* we do it gives it meaning. My passion
 ---
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zakkmccrack&theme=gotham&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakkmccrack&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=zakkmccrack&theme=default&hide_border=true)
 
 </div>
 ---
