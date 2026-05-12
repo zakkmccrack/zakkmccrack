@@ -1,7 +1,7 @@
 # Hi there, I'm zakkmccrack
 
 ### Computer Science student @ University of Perugia
-### Passionate about cybersecurity, low-level systems and full-stack development
+### Passionate about low-level systems, full-stack development, math and physics
 <div align="center">
   <em>"I... I didn't make a mistake pushing the .env file, I just love open source so much that I make those public too"</em>
 </div>
@@ -29,6 +29,11 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,arduino,eclipse,unity,npm,arch&perline=5" />
 </a>
 
+### Languages Stats
+
+![Top Languages](https://ghstats.dev/api/langs?username=zakkmccrack&theme=radical&max_langs=12)
+
+
 </div>
 
 ---
@@ -50,8 +55,10 @@ I believe what we do defines us, but *why* we do it gives it meaning. My passion
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=zakkmccrack&theme=shades-of-purple&hide_border=true)
 
-![Top Languages](https://ghstats.dev/api/langs?username=zakkmccrack&theme=radical)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=zakkmccrack&theme=radical&border_radius=0)
+
 </div>
+
 ---
 <div align="center">
   <em>"In the midst of winter, I found there was, within me, an invincible summer. And that makes me happy. For it says that no matter how hard the world pushes against me, within me, there's something stronger – something better, pushing right back."</em>
