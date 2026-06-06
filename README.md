@@ -14,7 +14,7 @@
 ### Languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,html,css,bash,kotlin&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,html,css,bash,kotlin&perline=6" />
 </a>
 
 ### Frameworks & Libraries
@@ -26,7 +26,7 @@
 ### Tools & Technologies
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,arduino,eclipse,unity,npm,arch,raspberrypi,docker&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,arduino,unity,npm,arch,raspberrypi,docker&perline=4" />
 </a>
 
 ### Languages Stats
