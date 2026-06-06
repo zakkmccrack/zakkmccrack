@@ -26,7 +26,7 @@
 ### Tools & Technologies
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,arduino,eclipse,unity,npm,arch,raspberrypi&perline=5" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,arduino,eclipse,unity,npm,arch,raspberrypi,docker&perline=5" />
 </a>
 
 ### Languages Stats
