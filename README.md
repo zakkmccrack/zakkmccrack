@@ -14,7 +14,7 @@
 ### Languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,html,css,bash,kotlin&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,html,css,bash,kotlin,md&perline=6" />
 </a>
 
 ### Frameworks & Libraries
@@ -26,13 +26,12 @@
 ### Tools & Technologies
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,arduino,unity,npm,arch,raspberrypi,docker&perline=4" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,arduino,unity,npm,arch,raspberrypi,docker,vercel&perline=4" />
 </a>
 
-### Languages Stats
-
-![Top Languages](https://ghstats.dev/api/langs?username=zakkmccrack&theme=radical&max_langs=12)
-
+</div>
+<div align="center">
+<img width="720" height="420" alt="immagine" src="https://github.com/user-attachments/assets/a674f902-1800-473a-b351-17ff7fee7893" />
 </div>
 
 ---
