@@ -1,40 +1,24 @@
 # Hi there, I'm zakkmccrack
 
-### Computer Science student @ University of Perugia
-### Passionate about low-level systems, full-stack development, math and physics
 <div align="center">
   <em>"I... I didn't make a mistake pushing the .env file, I just love open source so much that I make those public too"</em>
+
+  <img width="500" height="200" alt="source" src="https://github.com/user-attachments/assets/b87bdcdb-9022-49b0-b2d2-0f5b78709c98" />
 </div>
 </div>
 
 ## Tech Stack
 
 <div align="center">
-
-### Languages
-
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,html,css,bash,kotlin,md&perline=6" />
-</a>
-
-### Frameworks & Libraries
-
-<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,html,css,kotlin,md&perline=4" />
   <img src="https://skillicons.dev/icons?i=astro,react,nextjs,nodejs,tailwind,mysql,vite&perline=7" />
+  <img src="https://skillicons.dev/icons?i=git,androidstudio,arduino,unity,npm,arch,raspberrypi,docker,vercel&perline=3" />
 </a>
-
-### Tools & Technologies
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,arduino,unity,npm,arch,raspberrypi,docker,vercel&perline=4" />
-</a>
-
 </div>
 <div align="center">
 <img width="720" height="420" alt="immagine" src="https://github.com/user-attachments/assets/a674f902-1800-473a-b351-17ff7fee7893" />
 </div>
-
----
 
 ## Beyond Code
 
@@ -51,15 +35,8 @@ I believe what we do defines us, but *why* we do it gives it meaning. My passion
 ---
 <div align="center">
 
-![GitHub Stats](https://streak-stats.demolab.com?user=zakkmccrack&theme=shades-of-purple&hide_border=true)
-
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=zakkmccrack&theme=radical&border_radius=0)
 
-</div>
-
----
-<div align="center">
-  <em>"In the midst of winter, I found there was, within me, an invincible summer. And that makes me happy. For it says that no matter how hard the world pushes against me, within me, there's something stronger – something better, pushing right back."</em>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=zakkmccrack&color=red"/>
